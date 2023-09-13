@@ -1,5 +1,9 @@
-### Hi there 👋
 
+- 🌱 勉強中
+  - React(NextJs)
+  - TypeScript
+- やりたいこと
+  - 感情分析機能をつけた日記を作りたい
 <!--
 **tonk4astu/tonk4astu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
