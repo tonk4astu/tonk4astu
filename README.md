@@ -2,8 +2,9 @@
 - 🌱 勉強中
   - React(NextJs)
   - TypeScript
-- やりたいこと
+- 作りたいもの
   - 感情分析機能をつけた日記を作りたい
+  - 身内のみで形成される食べログ的サイト(アプリ？)
 <!--
 **tonk4astu/tonk4astu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
